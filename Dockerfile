@@ -4,7 +4,7 @@ WORKDIR /angular-docker
 COPY package*.json ./
 RUN npm install
 COPY . .
-RUN npm run build --prod
+RUN npm run build -- --configuration=production
 
 # Etapa de producción: Nginx sirve el frontend
 FROM nginx:alpine
