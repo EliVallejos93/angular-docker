@@ -7,7 +7,7 @@
   "type": "chrome",
   "request": "launch",
   "url": "http://localhost:62737",
-  "webRoot": "C:\\Users\\Elias\\OneDrive\\Desktop\\elias\\General\\Proyectos, Challenges y Pruebas Tecnicas\\angular-docker"
+  "webRoot": "C:\\Users\\Elias\\OneDrive\\Desktop\\elias\\juego-impostor\\juego-impostor-app\\angular-docker"
 }</LaunchJsonTarget>
   </PropertyGroup>
 </Project>
