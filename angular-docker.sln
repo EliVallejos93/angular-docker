@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36025.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "angular-docker", "angular-docker.esproj", "{5711529B-A2B6-D2A1-52A2-4F8C06CBCA61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5711529B-A2B6-D2A1-52A2-4F8C06CBCA61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5711529B-A2B6-D2A1-52A2-4F8C06CBCA61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5711529B-A2B6-D2A1-52A2-4F8C06CBCA61}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5711529B-A2B6-D2A1-52A2-4F8C06CBCA61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5711529B-A2B6-D2A1-52A2-4F8C06CBCA61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5711529B-A2B6-D2A1-52A2-4F8C06CBCA61}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A517E33B-BF8E-4C3A-AB5C-10B1B865DCD5}
+	EndGlobalSection
+EndGlobal
